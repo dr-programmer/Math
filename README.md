@@ -1,6 +1,6 @@
 # A program visualizing homothety
 
-##How to use it?
+## How to use it?
  - Use up-arrow-key / down-arrow-key for changing the state of the homothety without showing the previous state
  - Use W / S for changing the state of the homothety while showing the previous state
  - Use Q to change the step of the visualization of the homothety
